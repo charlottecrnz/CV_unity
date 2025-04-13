@@ -1,0 +1,71 @@
+# === Unity generated folders ===
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+MemoryCaptures/
+UserSettings/
+.assetstoretools/
+
+# === Unity cache and settings ===
+sysinfo.txt
+*.pidb
+*.booproj
+*.suo
+*.user
+*.userprefs
+*.csproj
+*.unityproj
+*.sln
+*.tmproj
+
+# === Rider / VSCode / Visual Studio ===
+.vscode/
+.idea/
+*.sln
+*.csproj
+*.pidb
+*.unityproj
+*.suo
+*.user
+*.userprefs
+*.dll
+*.exe
+*.mdb
+*.pdb
+*.cache
+*.log
+
+# === OS files ===
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# === Git ===
+*.orig
+
+# === Crash and error logs ===
+sysinfo.txt
+*.stacktrace
+
+# === Unity Cloud Build ===
+*.cloud
+
+# === Built Game ===
+*.apk
+*.aab
+*.xcodeproj
+*.xcworkspace
+*.xcuserstate
+*.xcuserdata
+*.pbxuser
+*.mode1v3
+*.mode2v3
+
+# === Others ===
+Builds/
+ExportedObj/
+.consulo/
+local.json
