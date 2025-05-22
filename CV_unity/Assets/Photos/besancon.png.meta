@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      besancon_0: -1770923907576520124
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
