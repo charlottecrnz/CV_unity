@@ -9,6 +9,10 @@ TagManager:
   - Controller
   - Langue
   - Laptop
+  - RetourStage
+  - SuivantAlternance
+  - Undefined
+  - FermerExperience
   layers:
   - Default
   - TransparentFX

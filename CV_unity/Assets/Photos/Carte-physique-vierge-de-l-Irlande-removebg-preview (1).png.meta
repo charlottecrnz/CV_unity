@@ -1,10 +1,13 @@
 fileFormatVersion: 2
-guid: 7b60e62a384c38749b907e8f128bf6e1
+guid: e528568cebced0349a28b30f962b40f5
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -3549533929992055877
-    second: Unity__3_-removebg-preview_0
+      213: -5428926056640038389
+    second: Carte-physique-vierge-de-l-Irlande-removebg-preview (1)_0
+  - first:
+      213: 4603897185346386274
+    second: Carte-physique-vierge-de-l-Irlande-removebg-preview (1)_1
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -126,13 +129,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Unity__3_-removebg-preview_0
+      name: Carte-physique-vierge-de-l-Irlande-removebg-preview (1)_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 500
-        height: 500
+        x: 23
+        y: 105
+        width: 15
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -141,8 +144,30 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: bb390a862b58dbec0800000000000000
-      internalID: -3549533929992055877
+      spriteID: b0abb12e38498a4b0800000000000000
+      internalID: -5428926056640038389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carte-physique-vierge-de-l-Irlande-removebg-preview (1)_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 27
+        width: 386
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 269fdfaf81454ef30800000000000000
+      internalID: 4603897185346386274
       vertices: []
       indices: 
       edges: []
@@ -160,8 +185,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      Unity__3_-removebg-preview_0: -3549533929992055877
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
