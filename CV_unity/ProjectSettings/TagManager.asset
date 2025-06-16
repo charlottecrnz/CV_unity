@@ -13,6 +13,8 @@ TagManager:
   - SuivantAlternance
   - Undefined
   - FermerExperience
+  - Scolaire
+  - Perso
   layers:
   - Default
   - TransparentFX
